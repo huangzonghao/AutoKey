@@ -40,6 +40,7 @@
     "configHotkey": {
         "enabled": true,
         "modifiers": [
+            "<ctrl>",
             "<super>"
         ],
         "hotKey": "k"
