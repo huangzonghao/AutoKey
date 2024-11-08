@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "NewTab",
+    "description": "Print",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 1,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": true,
@@ -21,10 +21,10 @@
         "modifiers": [
             "<super>"
         ],
-        "hotKey": "t"
+        "hotKey": "p"
     },
     "filter": {
-        "regex": "google-chrome.Google-chrome",
+        "regex": "Navigator.firefox",
         "isRecursive": false
     }
 }
